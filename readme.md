@@ -6,3 +6,7 @@ This tutorial focuses mainly on Git and using GitHub as remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for github
+editing done by afsara 
+
+owiuyetrirewxesc4reyt5dreyiftrr
+
